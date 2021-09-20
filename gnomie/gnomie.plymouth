@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Gnomie Plymouth
+Description=Plymouth theme with progress bar and gnome logo lol
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/gnomie
+ScriptFile=/usr/share/plymouth/themes/gnomie/gnomie.script
+
